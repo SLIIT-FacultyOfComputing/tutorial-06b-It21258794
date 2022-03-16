@@ -21,7 +21,7 @@ int Box::getLength()
 {
   return length;
 }
-int Box::getWidth();
+int Box::getWidth()
 {
   return width;
 }
